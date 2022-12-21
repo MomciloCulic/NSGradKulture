@@ -1,0 +1,192 @@
+.collapse{
+    padding-right: 2rem;
+}
+
+.grb{
+    width: 7rem;
+    height: 7rem;
+    float: left;
+    margin: 10% 0 10% 10%;
+}
+
+.navigacioni{
+    background-color: #254e58;
+    font-family: "Solway";
+    border-bottom: 3px solid #112d32;
+}
+
+body{
+    font-family: "Solway";
+    background-color: #88bdbc;
+}
+
+.navbar-toggler{
+    margin-right: 30px;
+}
+
+.nav-item{
+    padding: 10px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+
+}
+
+.nav-item:hover{
+    color:  gray;
+    cursor: pointer;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;    
+    font-size: 1.4rem;
+}
+
+#nav{
+    text-align: right;
+}
+
+.nav-link{
+    color:white;
+}
+
+.naslov {
+    width: 300px;
+    height: 110px;
+    line-height: 1.5;
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-left: 3px solid white;
+    margin-left: 5px;
+}
+
+.vl{
+    width: 200px;
+    padding-left: 135px;
+    padding-top: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.img{
+    padding: 10px 0;
+    width: 60%;
+    height: 40%;
+    margin: 0 auto 0 auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.pocetna{
+    padding-left: 100px;
+}
+
+.pocetna h2 {
+    padding: 10px 0;
+}
+
+.pocetna p {
+    font-size: large;
+}
+
+.zadnjiPasus{
+    margin-bottom: 75px;
+}
+
+.video {
+    width: 100%; 
+    height: 100%; 
+    padding: 150px 65px;
+}
+
+footer{
+    height: 130px;
+    border-top: 3px solid #112d32;
+    background-color: #254e58;
+    text-align: center;
+    color: white;
+}
+
+.footer img{
+    padding: 12px 0 5px 0;
+
+    width: 75px;
+    height: 100px;
+}
+
+.epk{
+    padding-left: 100px;
+}
+
+.epk h1{
+    padding-top: 30px;
+}
+
+.epk h2{
+    padding: 10px 0;
+}
+
+.epk p{
+    font-size: large;
+}
+
+.desniEpkTekst {
+    padding-right: 100px;
+}
+
+.ceremonija{
+    padding: 10px 0;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.desavanja {
+    padding: 0 50px;
+}
+
+.desavanja h1{
+    padding-top: 30px;
+}
+
+.desavanja h2{
+    padding: 10px 0;
+}
+
+.desavanja p{
+    font-size: large;
+}
+
+.mapa{
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 95px;
+}
+
+
+.galerija{
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.galerija p{
+    padding: 10px 0;
+    font-size: large;
+}
+
+.slike{
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 100%;
+}
+
+.slike:hover{
+    width: 102%;
+}
